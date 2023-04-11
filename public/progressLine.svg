@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" className="w-full" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8622 3031"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#B6152C;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M2 3036c0,-4 1,-9 3,-13 2,-4 725,-1389 2408,-1438 467,-14 893,10 1279,31 985,54 1703,94 2142,-542 255,-370 684,-631 1133,-803 657,-251 1361,-314 1632,-255 15,3 25,18 21,33 -3,15 -18,25 -33,21 -264,-57 -954,5 -1601,253 -440,168 -860,422 -1108,782 -456,661 -1187,621 -2190,566 -385,-21 -810,-45 -1274,-31 -1558,45 -2276,1257 -2353,1396l-59 0z"/>
+ </g>
+</svg>
