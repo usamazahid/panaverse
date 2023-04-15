@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Wrapper from '@/components/shared/Wrapper'
 import Link from 'next/link'
 import logo from '@/resources/img/logo.png'
+import LoginButton from '../shared/LoginButton'
 
 function Header() {
   const setAlert = ()=> {
@@ -32,7 +33,7 @@ function Header() {
           translate-x-0 duration-300  md:transition-none
           ${displayMenu && "left-0"}`}>
               <ul className='space-y-8 md:space-y-0 py-4 text-center 
-              flex flex-col md:flex-row
+              flex flex-col md:flex-row items-center
               space-x-0 md:space-x-8'>
                   <li><Link href={'/'} >HOME</Link></li>
                   <li><Link href={'/admissions'} >ADMISSIONS</Link></li>
@@ -41,6 +42,9 @@ function Header() {
                   <ul className=' md:hidden'>
                   <li><Link href={'/courses'} >COURSES</Link></li>
                   </ul>
+                  <li>
+                    <LoginButton />
+                  </li>
               </ul>
           </div>
           <div className="hamburger md:hidden" onClick={setAlert}>
