@@ -25,12 +25,12 @@ function LoginButton() {
         {
           groupName: 'Social',
           wallets: [
-            googleWallet({options: { projectId: "defaultProjectId" }}),
-            facebookWallet({options: { projectId: "defaultProjectId" }}),
-            githubWallet({options: { projectId: "defaultProjectId" }}),
-            discordWallet({options: { projectId: "defaultProjectId" }}),
-            twitchWallet({options: { projectId: "defaultProjectId" }}),
-            twitterWallet({options: { projectId: "defaultProjectId" }})
+            googleWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
+            facebookWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
+            githubWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
+            discordWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
+            twitchWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
+            twitterWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }})
           ],
         },
       ]);
