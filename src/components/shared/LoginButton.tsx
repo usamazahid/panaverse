@@ -25,12 +25,12 @@ function LoginButton() {
         {
           groupName: 'Social',
           wallets: [
-            googleWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
-            facebookWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
-            githubWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
-            discordWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
-            twitchWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }}),
-            twitterWallet({options: { projectId: "9cf34e0e-8082-458a-81ee-1860059b415f" }})
+            googleWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }}),
+            facebookWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }}),
+            githubWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }}),
+            discordWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }}),
+            twitchWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }}),
+            twitterWallet({options: { projectId: "87bbae3d-411b-4c4d-b03d-917d21f6b5b7" }})
           ],
         },
       ]);
